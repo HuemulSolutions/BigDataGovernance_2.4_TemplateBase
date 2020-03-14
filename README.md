@@ -1,4 +1,4 @@
-# BigDataGovernance_2.3_TemplateBase
+# BigDataGovernance_2.4_TemplateBase
 Proyecto base para ser utilizado en cualquier proyecto BigData
 
 ## Instrucciones
